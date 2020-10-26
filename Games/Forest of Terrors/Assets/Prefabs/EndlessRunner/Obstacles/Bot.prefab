@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 2298586016333581274}
   - component: {fileID: 2219868179421805935}
   - component: {fileID: -4217834351825717127}
+  - component: {fileID: 5080169421930624718}
   m_Layer: 0
   m_Name: Bot
-  m_TagString: Untagged
+  m_TagString: Bot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -162,5 +163,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fc104a2ad9ac3248a6bb3a1f70520cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5080169421930624718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7122958125580092124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65aa9f93644d66d4e8d36fe4e1a8e3ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

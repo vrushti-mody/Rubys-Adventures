@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8822749399131239333}
   - component: {fileID: 8642364250945008376}
   - component: {fileID: -8143771278490898076}
+  - component: {fileID: 1993437934257019219}
   m_Layer: 0
   m_Name: Damageable
   m_TagString: Obstacles
@@ -142,5 +143,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fc104a2ad9ac3248a6bb3a1f70520cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1993437934257019219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 545578295655191798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65aa9f93644d66d4e8d36fe4e1a8e3ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

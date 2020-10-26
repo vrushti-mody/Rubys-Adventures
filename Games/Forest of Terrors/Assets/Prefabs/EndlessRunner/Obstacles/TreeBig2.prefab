@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2060683189768476456}
   - component: {fileID: 1198712600695634856}
   - component: {fileID: -7525880158479763057}
+  - component: {fileID: -9104390201217079518}
   m_Layer: 0
   m_Name: TreeBig2
   m_TagString: Obstacles
@@ -142,5 +143,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fc104a2ad9ac3248a6bb3a1f70520cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-9104390201217079518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3090205304467886997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65aa9f93644d66d4e8d36fe4e1a8e3ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

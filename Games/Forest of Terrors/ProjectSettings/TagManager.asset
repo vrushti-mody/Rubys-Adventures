@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Obstacles
   - Collector
+  - Bot
   layers:
   - Default
   - TransparentFX

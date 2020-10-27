@@ -74,7 +74,7 @@ public class SarahController : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
         if (currentHealth <= 0)
         {
-             SceneManager.LoadScene("MainScene");
+             SceneManager.LoadScene("ForestOfTerrors");
         }
         UIHealthBar.instance.SetValue(currentHealth / (float)maxHealth);
     }

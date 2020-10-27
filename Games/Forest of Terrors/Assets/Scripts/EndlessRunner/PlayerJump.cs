@@ -7,9 +7,9 @@ public class PlayerJump : MonoBehaviour
 {
 
     [SerializeField]
-    private AudioClip jumpClip;
+    private AudioSource jumpAudio;
     private Rigidbody2D myBody;
-    private float jumpForce = 8f, forwardForce = 0f;
+    private float jumpForce = 9f, forwardForce = 0f;
     private bool canJump;
     private Button jumpBtn;
 
@@ -24,7 +24,7 @@ public class PlayerJump : MonoBehaviour
     public void Jump() {
         if (canJump) {
             canJump = false;
-            // AudioSource.PlayClipAtPoint(jumpClip, transform.position);
+            jumpAudio.Play();
             if (transform.position.x < 0) {
                 forwardForce = 1f;
             } else {

@@ -1764,7 +1764,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  maxHealth: 5
+  maxHealth: 4
   projectilePrefab: {fileID: 424517183995958719, guid: a1ba34ecf671a49c99066a05cca98eea, type: 3}
   timeInvincible: 2
 --- !u!4 &118835689 stripped

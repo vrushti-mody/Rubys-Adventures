@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ForestOfTerrors.unity
+- path: Assets/Scenes/EndlessRunner.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerDied : MonoBehaviour
 {
@@ -12,7 +13,7 @@ public class PlayerDied : MonoBehaviour
         if (endGame != null) {
             endGame();
         }
-        Time.timeScale = 0;
+        SceneManager.LoadScene("EndlessRunner");
         Destroy (gameObject);
     }
 
@@ -22,11 +23,7 @@ public class PlayerDied : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D target) {
-        if (target.gameObject.tag == "Bot") {
-            PlayerDiedEndGame();
-        }
-    }
+ 
 
 
 

@@ -56,4 +56,4 @@ git clone https://github.com/vrushti-mody/Mini-Games.git
 
 Apache @ [Mini Games](https://github.com/vrushti-mody/Mini-Games)
 
-Made with :heart: by [Vrushti Mody](https://github.com/vrushti-mody) and Ahad Zai
+Made with :heart: by [Vrushti Mody](https://github.com/vrushti-mody) and [Ahad Zai](https://github.com/ahadkhan98)

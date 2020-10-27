@@ -1,4 +1,4 @@
-# Mini Games
+# Ruby's Adventures
 
 A Twist to the conventional Pacman and an Infinite Runner
 

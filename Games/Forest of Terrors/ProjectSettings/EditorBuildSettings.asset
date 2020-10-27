@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f0904a5d1fe6cff43905e654e1d09383
+  - enabled: 1
+    path: Assets/Scenes/ForestOfTerrors.unity
+    guid: 083d3aec665274fbdb17fae29b88686e
+  - enabled: 1
+    path: Assets/Scenes/EndlessRunner.unity
+    guid: 31447bcdfc6eff74ba7b66c1816b32b3
   m_configObjects: {}

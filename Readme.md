@@ -50,7 +50,9 @@ git clone https://github.com/vrushti-mody/Mini-Games.git
 - [GameDev Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
 - [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - 📚 Library of all kind of scripts, snippets & shaders for Unity.
 
+## Download the Game
 
+Download the game [`here`](https://rubysadventure.netlify.app/)
 
 ## License
 

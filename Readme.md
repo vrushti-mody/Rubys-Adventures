@@ -56,6 +56,6 @@ Download the game [`here`](https://rubysadventure.netlify.app/)
 
 ## License
 
-Apache @ [Mini Games](https://github.com/vrushti-mody/Mini-Games)
+Apache @ [Ruby's Adventures](https://github.com/vrushti-mody/Mini-Games)
 
 Made with :heart: by [Vrushti Mody](https://github.com/vrushti-mody) and [Ahad Zai](https://github.com/ahadkhan98)
